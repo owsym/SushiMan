@@ -1,5 +1,4 @@
 # Build a Responsive Website
-![Sushi](https://i.ibb.co/dBxww2c/Sushi.png)
 
 ## Introduction
 Are you wondering how to make a website using #HTML and #CSS? fully responsive HTML & CSS website with animations!
